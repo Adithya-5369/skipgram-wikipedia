@@ -129,7 +129,7 @@ skipgram-wikipedia/
 
 * The Wikipedia dataset is **not included** in the repository (too large)
 * It is downloaded automatically when running the notebook
-* Uses **enwik8 (100MB)** for practical training time
+* Uses **enwik8** for practical training time
 
 ---
 
