@@ -167,6 +167,7 @@ You are free to use, modify, and distribute this code with attribution.
 ---
 
 ## Author
+
 **Adithya Sai Srinivas**
 📧 muttaadithyasaisrinivas@gmail.com  
 🌐 [Portfolio](https://adithya369.pages.dev) • [LinkedIn](https://linkedin.com/in/adithyasaisrinivas)
